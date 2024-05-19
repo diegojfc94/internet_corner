@@ -1,0 +1,25 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Diego's ☕ corner
+theme: PaperMod
+ 
+menu:
+  main:
+    - identifier: career
+      name: Career
+      url: /career/
+      weight: 30
+
+params:
+    defaultTheme: auto
+    profileMode:
+        enabled: true
+        subtitle: "Diego Fernández | Software Engineer & pixel lover"
+        imageUrl: "img/profile.jpg"
+        imageTitle: "Diego's photo"
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
+
+    socialIcons:
+        - name: "Github"
+          url: "https://github.com/diegojfc94"
