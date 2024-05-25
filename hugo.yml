@@ -23,3 +23,5 @@ params:
     socialIcons:
         - name: "Github"
           url: "https://github.com/diegojfc94"
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/djfc0001"
