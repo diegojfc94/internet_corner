@@ -12,10 +12,32 @@ I've been working since 2016 when I began as an intern in my last year of univer
 
 I have been working on the whole technology stack, although in the last 3 years I have been focused on the more visual section, close to the user because since I started in the programming world, it is the one that brought me more curiosity from the beginning.
 
-Currently, in late 2024 May, I´m learning React with Next.js, to get new opportunities outside the Angular ecosystem and get out of my comfort zone.
+Currently, in 2025, I´m learning Astro & Svelte, also focusing in Vite & Jenkins.
 
-## Frontend Engineer (2021 - Now)
-Now, I´m working on a PWA and Control Center project with Hexagonal Architecture in the Photovoltaic industry.
+## Frontend Engineer (2024 - Now)
+Now, I´m working in ticketing & culture industry.
+
+A quick recap of the technologies that I´m currently using:
+- Angular v17/18 (with Typescript)
+- Svelte (beginner level)
+- Astro (beginner level, but I ❤️ it)
+- Jest
+- Playwright
+- Cypress
+- RxJS
+- Vite
+- K8s & Docker
+- GitHub
+- Jenkins
+- AWS
+- Sentry
+- Mixpanel
+- Jira
+- Agile
+
+
+## Frontend Engineer (2021 - 2024)
+During this time, I was working on a PWA and Control Center project with Hexagonal Architecture in the Photovoltaic industry.
 
 A quick recap of the technologies that I´m currently using:
 - Angular v16 (with Typescript)
@@ -31,7 +53,7 @@ A quick recap of the technologies that I´m currently using:
 - Sentry
 - Mixpanel
 - Jira
-- SCRUM Agile
+- Agile
 
 
 ## Fullstack Engineer (2019 - 2021)
